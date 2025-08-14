@@ -58,3 +58,26 @@ nav{
 .empty{
     height: 250px;
 }
+.see-it{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25px 250px;
+    gap: 200px;
+}
+.see-h3{
+    font-size: 42px;
+    font-family: 700;
+    color: #252432;
+}
+.img{
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
+.see-des{
+    font-weight: 400;
+    font-size: 24px;
+    padding-right: 20px;
+}
