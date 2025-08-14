@@ -81,3 +81,72 @@ nav{
     font-size: 24px;
     padding-right: 20px;
 }
+.joined-h3{
+  text-align: center;
+  font-size: 38px;
+  font-weight: 700;
+  color: #252432;
+  padding-top: 50px;
+ 
+}
+.use{
+    margin: 0 200px;
+    background-color: rgba(78, 71, 255, 0.13);
+}
+div ol{
+    display: flex;
+     justify-content: space-evenly;
+}
+div ol li{
+    list-style: none;
+    
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+    color: #4E47FF;
+    padding: 40px 50px 80px;
+}
+.h2-com{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 800;
+    color: #252432;
+}
+.card-hum{
+    text-align: center;
+    
+}
+.comment{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin: 20px 200px;
+    justify-content: space-around;
+}
+.human{
+     width: 300px;
+    border: none;
+    border-radius: 10px;
+    text-align: left;
+    padding: 20px;
+    background-color: #F2EDED;
+    
+    
+}
+.hum{
+    display: flex;
+}
+.pic
+{
+    margin-top: 30px;
+    border-radius: 20% ;
+    object-fit: cover;
+}
+.h4-c{
+   display: block;
+   padding: 0px 2px 0px 10px;
+}
+.p{
+
+    padding-left: 10%;
+}
